@@ -1,9 +1,6 @@
 # data-centric-ml
 # Feature Engineering
 
-## Feature Selection
----
-
 ### RFE
 RFE (Recursive Feature Elimination) is a feature selection technique that iteratively removes the least relevant features based on a base model, until only the most important ones remain. It improves model performance by reducing dimensionality, preventing overfitting, and speeding up training.
 
